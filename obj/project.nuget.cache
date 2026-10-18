@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Och/cvPAT9s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andya\\Documents\\Documentos de la Universidad\\Programacion II\\Prestamo_Biblioteca\\Prestamo_Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andya\\.nuget\\packages\\microsoft.data.sqlite\\10.0.13\\microsoft.data.sqlite.10.0.13.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.13\\microsoft.data.sqlite.core.10.0.13.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
